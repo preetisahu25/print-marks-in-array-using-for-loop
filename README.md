@@ -1,0 +1,1 @@
+# print-marks-in-array-using-for-loop
